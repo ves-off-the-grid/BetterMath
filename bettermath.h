@@ -1,7 +1,5 @@
 #pragma once
-
 #include <vector>
-#include <stdarg.h>
 
 namespace BetterMath {
 	int VectorMax(std::vector<int> Vector) {
